@@ -1,4 +1,4 @@
-# Technical Assessment: MCP Server & LLM Client Implementation
+# MCP Server & LangChain + LangGraph Client Implementation 🦜⛓️
 MCP server with FastMCP and LLM client with LangChain + LangGraph with the OpenAI LLM
 
 ## MCP Client Implementation
